@@ -1,4 +1,4 @@
-<h1 align="center" id="title">C# Emage Viewer</h1>
+<h1 align="center" id="title">C# Image Viewer</h1>
 
 <p id="description">Borderless image viwer which does not have a control panel all actions can be performed with the mouse</p>
 
